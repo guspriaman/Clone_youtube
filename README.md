@@ -1,6 +1,36 @@
+Hi there, Proyek ini  tentang penggunaan ReactJS dan RapidAPI untuk mengunggah file dan melakukan clone video dari platform YouTube. Dalam proyek ini, kami menggunakan ReactJS untuk membuat antarmuka pengguna yang responsif dan menarik, sementara RapidAPI digunakan untuk memfasilitasi koneksi dengan API YouTube.
+
+Dalam proyek ini, kami telah membuat fitur-fitur utama seperti:
+
+**Mengunggah file video: Pengguna dapat mengunggah video dari perangkat mereka ke platform kami dengan cepat dan mudah.**
+
+**Clone video YouTube: Pengguna dapat mengambil video dari YouTube dan mengunggahnya ke platform kami. RapidAPI membantu kami dalam mengakses API YouTube dengan mudah.**
+
+**Pencarian video YouTube: Pengguna dapat mencari video YouTube dari platform kami, dan dapat mengunggah video tersebut dengan mudah ke platform kami.**
+**
+*8Tampilan halaman video: Setelah video diunggah, pengguna dapat menonton video tersebut dan menambahkan komentar.**
+
+**Dalam proyek ini, kami juga telah mengimplementasikan beberapa teknologi terbaru seperti:**
+
+React Hooks: Kami telah menggunakan Hooks untuk memudahkan pengembangan dan memudahkan pemeliharaan kode.**
+
+**CSS Grid: Kami menggunakan CSS Grid untuk mengatur tata letak halaman.**
+
+**Axios: Kami menggunakan Axios untuk melakukan permintaan HTTP ke API YouTube.**
+
+Proyek ini diharapkan dapat membantu pengguna dalam mengunggah dan menonton video dengan mudah dan memberikan pengalaman pengguna yang baik. Semua kode sumber dan dokumentasi proyek tersedia di repositori GitHub kami.
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 

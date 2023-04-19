@@ -22,24 +22,24 @@ const SearchBar = () => {
       component='form'
       onSubmit={onhandleSubmit}
       sx={{
-        borderRadius: 20,
-        border: '1px solid #e3e3e3',
-        pl: 2,
-        boxShadow: 'none',
-        mr: { sm: 5 },
+        backgroundColor: '#000',
       }}
     >
       <input
         className='search-bar'
-        placeholder='Search...'
+        placeholder='Search  what you like...'
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
       />
       <IconButton type='submit' sx={{ p: '10px', color: 'red' }} aria-label='search'>
         <SearchIcon />
       </IconButton>
+
+
     </Paper>
+
   );
+
 };
 
 export default SearchBar;
